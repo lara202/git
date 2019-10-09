@@ -1,2 +1,2 @@
-# git
-git command 
+# Git
+My git command 
